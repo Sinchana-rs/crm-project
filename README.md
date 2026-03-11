@@ -1,3 +1,52 @@
+# Real Estate CRM System
+
+A simple **Real Estate CRM (Customer Relationship Management)** system built using **React, Node.js, Express, and MySQL**.  
+This project helps manage leads, property inventory, owners, availability, and agent activities.
+
+---
+
+## Features
+
+- Lead Management
+- Owner Management
+- Property Inventory
+- Property Availability
+- Agent Efforts Tracking
+- Lead Matching with Properties
+- Historical Activity Tracking
+- Responsive Dashboard UI
+
+---
+
+## Tech Stack
+
+Frontend:
+- React
+- Tailwind CSS
+- Axios
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MySQL
+
+Other Tools:
+- Vite
+- Git & GitHub
+
+---
+# Run
+Frontend:
+
+npm install
+npm run dev
+
+Backend:
+
+npm install
+node server.js
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
